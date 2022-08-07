@@ -1,0 +1,5 @@
+1. First set the PASSWORD variable with the password
+
+2. Upload index data using Bulk API
+
+curl -u "elastic:$PASSWORD" -k -H 'Content-Type: application/json' -XPOST "https://localhost:9200/cities/_bulk" --data-binary @worldcities_100records.json

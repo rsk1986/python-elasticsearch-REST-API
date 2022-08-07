@@ -1,0 +1,100 @@
+{"index": {}}
+{"city": "Tokyo", "city_ascii": "Tokyo", "lat": "35.6839", "lng": "139.7744", "country": "Japan", "iso2": "JP", "iso3": "JPN", "admin_name": "T\u014dky\u014d", "capital": "primary", "population": "39105000", "id": "1392685764"}
+{"index": {}}
+{"city": "Jakarta", "city_ascii": "Jakarta", "lat": "-6.2146", "lng": "106.8451", "country": "Indonesia", "iso2": "ID", "iso3": "IDN", "admin_name": "Jakarta", "capital": "primary", "population": "35362000", "id": "1360771077"}
+{"index": {}}
+{"city": "Delhi", "city_ascii": "Delhi", "lat": "28.6667", "lng": "77.2167", "country": "India", "iso2": "IN", "iso3": "IND", "admin_name": "Delhi", "capital": "admin", "population": "31870000", "id": "1356872604"}
+{"index": {}}
+{"city": "Manila", "city_ascii": "Manila", "lat": "14.6000", "lng": "120.9833", "country": "Philippines", "iso2": "PH", "iso3": "PHL", "admin_name": "Manila", "capital": "primary", "population": "23971000", "id": "1608618140"}
+{"index": {}}
+{"city": "S\u00e3o Paulo", "city_ascii": "Sao Paulo", "lat": "-23.5504", "lng": "-46.6339", "country": "Brazil", "iso2": "BR", "iso3": "BRA", "admin_name": "S\u00e3o Paulo", "capital": "admin", "population": "22495000", "id": "1076532519"}
+{"index": {}}
+{"city": "Seoul", "city_ascii": "Seoul", "lat": "37.5600", "lng": "126.9900", "country": "South Korea", "iso2": "KR", "iso3": "KOR", "admin_name": "Seoul", "capital": "primary", "population": "22394000", "id": "1410836482"}
+{"index": {}}
+{"city": "Mumbai", "city_ascii": "Mumbai", "lat": "19.0758", "lng": "72.8775", "country": "India", "iso2": "IN", "iso3": "IND", "admin_name": "Mah\u0101r\u0101shtra", "capital": "admin", "population": "22186000", "id": "1356226629"}
+{"index": {}}
+{"city": "Shanghai", "city_ascii": "Shanghai", "lat": "31.1667", "lng": "121.4667", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Shanghai", "capital": "admin", "population": "22118000", "id": "1156073548"}
+{"index": {}}
+{"city": "Mexico City", "city_ascii": "Mexico City", "lat": "19.4333", "lng": "-99.1333", "country": "Mexico", "iso2": "MX", "iso3": "MEX", "admin_name": "Ciudad de M\u00e9xico", "capital": "primary", "population": "21505000", "id": "1484247881"}
+{"index": {}}
+{"city": "Guangzhou", "city_ascii": "Guangzhou", "lat": "23.1288", "lng": "113.2590", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Guangdong", "capital": "admin", "population": "21489000", "id": "1156237133"}
+{"index": {}}
+{"city": "Cairo", "city_ascii": "Cairo", "lat": "30.0444", "lng": "31.2358", "country": "Egypt", "iso2": "EG", "iso3": "EGY", "admin_name": "Al Q\u0101hirah", "capital": "primary", "population": "19787000", "id": "1818253931"}
+{"index": {}}
+{"city": "Beijing", "city_ascii": "Beijing", "lat": "39.9040", "lng": "116.4075", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Beijing", "capital": "primary", "population": "19437000", "id": "1156228865"}
+{"index": {}}
+{"city": "New York", "city_ascii": "New York", "lat": "40.6943", "lng": "-73.9249", "country": "United States", "iso2": "US", "iso3": "USA", "admin_name": "New York", "capital": "", "population": "18713220", "id": "1840034016"}
+{"index": {}}
+{"city": "Kolk\u0101ta", "city_ascii": "Kolkata", "lat": "22.5727", "lng": "88.3639", "country": "India", "iso2": "IN", "iso3": "IND", "admin_name": "West Bengal", "capital": "admin", "population": "18698000", "id": "1356060520"}
+{"index": {}}
+{"city": "Moscow", "city_ascii": "Moscow", "lat": "55.7558", "lng": "37.6178", "country": "Russia", "iso2": "RU", "iso3": "RUS", "admin_name": "Moskva", "capital": "primary", "population": "17693000", "id": "1643318494"}
+{"index": {}}
+{"city": "Bangkok", "city_ascii": "Bangkok", "lat": "13.7500", "lng": "100.5167", "country": "Thailand", "iso2": "TH", "iso3": "THA", "admin_name": "Krung Thep Maha Nakhon", "capital": "primary", "population": "17573000", "id": "1764068610"}
+{"index": {}}
+{"city": "Dhaka", "city_ascii": "Dhaka", "lat": "23.7289", "lng": "90.3944", "country": "Bangladesh", "iso2": "BD", "iso3": "BGD", "admin_name": "Dhaka", "capital": "primary", "population": "16839000", "id": "1050529279"}
+{"index": {}}
+{"city": "Buenos Aires", "city_ascii": "Buenos Aires", "lat": "-34.5997", "lng": "-58.3819", "country": "Argentina", "iso2": "AR", "iso3": "ARG", "admin_name": "Buenos Aires, Ciudad Aut\u00f3noma de", "capital": "primary", "population": "16216000", "id": "1032717330"}
+{"index": {}}
+{"city": "\u014csaka", "city_ascii": "Osaka", "lat": "34.7520", "lng": "135.4582", "country": "Japan", "iso2": "JP", "iso3": "JPN", "admin_name": "\u014csaka", "capital": "admin", "population": "15490000", "id": "1392419823"}
+{"index": {}}
+{"city": "Lagos", "city_ascii": "Lagos", "lat": "6.4500", "lng": "3.4000", "country": "Nigeria", "iso2": "NG", "iso3": "NGA", "admin_name": "Lagos", "capital": "minor", "population": "15487000", "id": "1566593751"}
+{"index": {}}
+{"city": "Istanbul", "city_ascii": "Istanbul", "lat": "41.0100", "lng": "28.9603", "country": "Turkey", "iso2": "TR", "iso3": "TUR", "admin_name": "\u0130stanbul", "capital": "admin", "population": "15311000", "id": "1792756324"}
+{"index": {}}
+{"city": "Karachi", "city_ascii": "Karachi", "lat": "24.8600", "lng": "67.0100", "country": "Pakistan", "iso2": "PK", "iso3": "PAK", "admin_name": "Sindh", "capital": "admin", "population": "15292000", "id": "1586129469"}
+{"index": {}}
+{"city": "Kinshasa", "city_ascii": "Kinshasa", "lat": "-4.3317", "lng": "15.3139", "country": "Congo (Kinshasa)", "iso2": "CD", "iso3": "COD", "admin_name": "Kinshasa", "capital": "primary", "population": "15056000", "id": "1180000363"}
+{"index": {}}
+{"city": "Shenzhen", "city_ascii": "Shenzhen", "lat": "22.5350", "lng": "114.0540", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Guangdong", "capital": "minor", "population": "14678000", "id": "1156158707"}
+{"index": {}}
+{"city": "Bangalore", "city_ascii": "Bangalore", "lat": "12.9791", "lng": "77.5913", "country": "India", "iso2": "IN", "iso3": "IND", "admin_name": "Karn\u0101taka", "capital": "admin", "population": "13999000", "id": "1356410365"}
+{"index": {}}
+{"city": "Ho Chi Minh City", "city_ascii": "Ho Chi Minh City", "lat": "10.8167", "lng": "106.6333", "country": "Vietnam", "iso2": "VN", "iso3": "VNM", "admin_name": "H\u1ed3 Ch\u00ed Minh", "capital": "admin", "population": "13954000", "id": "1704774326"}
+{"index": {}}
+{"city": "Tehran", "city_ascii": "Tehran", "lat": "35.7000", "lng": "51.4167", "country": "Iran", "iso2": "IR", "iso3": "IRN", "admin_name": "Tehr\u0101n", "capital": "primary", "population": "13819000", "id": "1364305026"}
+{"index": {}}
+{"city": "Los Angeles", "city_ascii": "Los Angeles", "lat": "34.1139", "lng": "-118.4068", "country": "United States", "iso2": "US", "iso3": "USA", "admin_name": "California", "capital": "", "population": "12750807", "id": "1840020491"}
+{"index": {}}
+{"city": "Rio de Janeiro", "city_ascii": "Rio de Janeiro", "lat": "-22.9083", "lng": "-43.1964", "country": "Brazil", "iso2": "BR", "iso3": "BRA", "admin_name": "Rio de Janeiro", "capital": "admin", "population": "12486000", "id": "1076887657"}
+{"index": {}}
+{"city": "Chengdu", "city_ascii": "Chengdu", "lat": "30.6600", "lng": "104.0633", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Sichuan", "capital": "admin", "population": "11920000", "id": "1156421555"}
+{"index": {}}
+{"city": "Baoding", "city_ascii": "Baoding", "lat": "38.8671", "lng": "115.4845", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Hebei", "capital": "", "population": "11860000", "id": "1156256829"}
+{"index": {}}
+{"city": "Chennai", "city_ascii": "Chennai", "lat": "13.0825", "lng": "80.2750", "country": "India", "iso2": "IN", "iso3": "IND", "admin_name": "Tamil N\u0101du", "capital": "admin", "population": "11564000", "id": "1356374944"}
+{"index": {}}
+{"city": "Lahore", "city_ascii": "Lahore", "lat": "31.5497", "lng": "74.3436", "country": "Pakistan", "iso2": "PK", "iso3": "PAK", "admin_name": "Punjab", "capital": "admin", "population": "11148000", "id": "1586801463"}
+{"index": {}}
+{"city": "London", "city_ascii": "London", "lat": "51.5072", "lng": "-0.1275", "country": "United Kingdom", "iso2": "GB", "iso3": "GBR", "admin_name": "London, City of", "capital": "primary", "population": "11120000", "id": "1826645935"}
+{"index": {}}
+{"city": "Paris", "city_ascii": "Paris", "lat": "48.8566", "lng": "2.3522", "country": "France", "iso2": "FR", "iso3": "FRA", "admin_name": "\u00cele-de-France", "capital": "primary", "population": "11027000", "id": "1250015082"}
+{"index": {}}
+{"city": "Tianjin", "city_ascii": "Tianjin", "lat": "39.1467", "lng": "117.2056", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Tianjin", "capital": "admin", "population": "10932000", "id": "1156174046"}
+{"index": {}}
+{"city": "Linyi", "city_ascii": "Linyi", "lat": "35.0606", "lng": "118.3425", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Shandong", "capital": "", "population": "10820000", "id": "1156086320"}
+{"index": {}}
+{"city": "Shijiazhuang", "city_ascii": "Shijiazhuang", "lat": "38.0422", "lng": "114.5086", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Hebei", "capital": "admin", "population": "10784600", "id": "1156217541"}
+{"index": {}}
+{"city": "Zhengzhou", "city_ascii": "Zhengzhou", "lat": "34.7492", "lng": "113.6605", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Henan", "capital": "admin", "population": "10136000", "id": "1156183137"}
+{"index": {}}
+{"city": "Nanyang", "city_ascii": "Nanyang", "lat": "32.9987", "lng": "112.5292", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Henan", "capital": "", "population": "10013600", "id": "1156192287"}
+{"index": {}}
+{"city": "Hyder\u0101b\u0101d", "city_ascii": "Hyderabad", "lat": "17.3617", "lng": "78.4747", "country": "India", "iso2": "IN", "iso3": "IND", "admin_name": "Telangana", "capital": "admin", "population": "9840000", "id": "1356871768"}
+{"index": {}}
+{"city": "Wuhan", "city_ascii": "Wuhan", "lat": "30.5872", "lng": "114.2881", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Hubei", "capital": "admin", "population": "9729000", "id": "1156117184"}
+{"index": {}}
+{"city": "Handan", "city_ascii": "Handan", "lat": "36.6116", "lng": "114.4894", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Hebei", "capital": "minor", "population": "9549700", "id": "1156957080"}
+{"index": {}}
+{"city": "Nagoya", "city_ascii": "Nagoya", "lat": "35.1167", "lng": "136.9333", "country": "Japan", "iso2": "JP", "iso3": "JPN", "admin_name": "Aichi", "capital": "admin", "population": "9522000", "id": "1392407472"}
+{"index": {}}
+{"city": "Weifang", "city_ascii": "Weifang", "lat": "36.7167", "lng": "119.1000", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Shandong", "capital": "", "population": "9373000", "id": "1156912965"}
+{"index": {}}
+{"city": "Lima", "city_ascii": "Lima", "lat": "-12.0600", "lng": "-77.0375", "country": "Peru", "iso2": "PE", "iso3": "PER", "admin_name": "Lima", "capital": "primary", "population": "8992000", "id": "1604728603"}
+{"index": {}}
+{"city": "Zhoukou", "city_ascii": "Zhoukou", "lat": "33.6250", "lng": "114.6418", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Henan", "capital": "minor", "population": "8953172", "id": "1156272098"}
+{"index": {}}
+{"city": "Luanda", "city_ascii": "Luanda", "lat": "-8.8383", "lng": "13.2344", "country": "Angola", "iso2": "AO", "iso3": "AGO", "admin_name": "Luanda", "capital": "primary", "population": "8883000", "id": "1024949724"}
+{"index": {}}
+{"city": "Ganzhou", "city_ascii": "Ganzhou", "lat": "25.8292", "lng": "114.9336", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Jiangxi", "capital": "minor", "population": "8677600", "id": "1156832475"}
+{"index": {}}
+{"city": "Tongshan", "city_ascii": "Tongshan", "lat": "34.2610", "lng": "117.1859", "country": "China", "iso2": "CN", "iso3": "CHN", "admin_name": "Jiangsu", "capital": "minor", "population": "8669000", "id": "1156241678"}
